@@ -6,7 +6,8 @@ Support and Resistance Trend lines Calculator for Cryptocurrency Analysis
 Note
 ----
 
-This library can calculate and plot trend lines for any time series
+This library can calculate and plot trend lines for any time series.
+Please puts your both identify code  ![from binance](https://www.binance.com/en/support/faq/360002502072-How-to-create-API)
 
 Quick Start
 ===========
