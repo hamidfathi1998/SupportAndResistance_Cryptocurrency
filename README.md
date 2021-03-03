@@ -190,7 +190,7 @@ Documentation for usage:
 		curdir, #base output directory for png and svg images, will be saved in 'data' subfolder
 		hist) #pandas DataFrame containing Close and date index
 	
-![Example output of plotting support resistance](https://github.com/hamidfathi1998/SupportAndResistance_Cryptocurrency/chart.svg)
+![Example output of plotting support resistance](https://github.com/hamidfathi1998/SupportAndResistance_Cryptocurrency/blob/main/chart.svg)
 
 
 Requirements
