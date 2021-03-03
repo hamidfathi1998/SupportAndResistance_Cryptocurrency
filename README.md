@@ -12,6 +12,11 @@ Please puts your both identify code in credentials.txt [Binance](https://www.bin
 
 Formula
 ----
+![1](https://github.com/hamidfathi1998/SupportAndResistance_Cryptocurrency/blob/main/img/extrema.png)
+![2](https://github.com/hamidfathi1998/SupportAndResistance_Cryptocurrency/blob/main/img/hough.png)
+![3](https://github.com/hamidfathi1998/SupportAndResistance_Cryptocurrency/blob/main/img/linregrs.png)
+![4](https://github.com/hamidfathi1998/SupportAndResistance_Cryptocurrency/blob/main/img/reimann.png)
+![5](https://github.com/hamidfathi1998/SupportAndResistance_Cryptocurrency/blob/main/img/slopeint.png)
 
 
 Quick Start
