@@ -7,7 +7,7 @@ Note
 ----
 
 This library can calculate and plot trend lines for any time series.
-Please puts your both identify code  ![from binance](https://www.binance.com/en/support/faq/360002502072-How-to-create-API)
+Please puts your both identify code  ![](https://www.binance.com/en/support/faq/360002502072-How-to-create-API)
 
 Quick Start
 ===========
